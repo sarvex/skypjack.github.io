@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ECS back and forth
-subtitle: Part 1: Introduction
+subtitle: Part 1 - Introduction
 tags: [ecs]
 ---
 
