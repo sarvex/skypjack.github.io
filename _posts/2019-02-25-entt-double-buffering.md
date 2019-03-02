@@ -1,6 +1,8 @@
 ---
 layout: post
 title: EnTT and double buffering
+gh-repo: skypjack/entt
+tags: [entt]
 ---
 
 More than once I've been asked to put built-in support for double buffering or

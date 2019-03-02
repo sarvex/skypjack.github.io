@@ -1,6 +1,8 @@
 ---
 layout: post
-title: ECS back and forth, part 1
+title: ECS back and forth
+subtitle: Part 1: Introduction
+tags: [ecs]
 ---
 
 The first time I heard of the entity component system architectural pattern, I
