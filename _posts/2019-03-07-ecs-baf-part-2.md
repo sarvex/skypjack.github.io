@@ -20,8 +20,8 @@ It will therefore be possible to reuse most of the techniques and suggestions
 while trying to implement your own tool.
 
 If you haven't done it yet, read the
-[first part](https://skypjack.github.io/ecs-baf-part-1/) of the series before to
-continue.
+[first part](https://skypjack.github.io/2019-02-14-ecs-baf-part-1/) of the
+series before to continue.
 
 ## Introduction
 
