@@ -2,7 +2,7 @@
 layout: post
 title: Generic, type-safe delegates in C++ (revised)
 gh-repo: skypjack/entt
-tags: [entt, signal]
+tags: [entt, cpp, signal]
 ---
 
 Back in 2011, an
