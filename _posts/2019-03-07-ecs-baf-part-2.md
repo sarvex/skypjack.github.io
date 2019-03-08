@@ -133,7 +133,7 @@ simply tries to optimize everything as much as possible, since it is known that
 within the _everything_ there are also our usage patterns. However, this has a
 drawback, that is that you lose the chance to get even more on the archetypes
 (let me say) _of interest_ and sacrifice something to optimize things for
-iterations you won't never perform. Even worse, the number of archetypes could
+iterations you won't ever perform. Even worse, the number of archetypes could
 explode if you have a high number of possible combinations of components
 assigned to different entities at runtime and this will definitely affect the
 iterations to an extent by adding more and more jumps to find all the entities.
