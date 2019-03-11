@@ -292,6 +292,8 @@ to rely on them as the key data structure for pools of components. This time,
 the systems aren't involved and the optimizations find room elsewhere.<br/>
 Now it should be clear how the sparse sets work, so I'll give you perhaps less
 details and go straight to the point where possible.
+An open source project in C++ from GitHub that uses sparse sets for that is my
+own library, [`EnTT`](https://github.com/skypjack/entt).
 
 To use a sparse set as a pool is straightforward, at least if you don't aim to
 optimize it. The basic implementation already works fine for that. You can just
@@ -346,9 +348,10 @@ to the problem, either trivial and slightly slower or more complex but faster:
 
 * The third and last alternative is perhaps the least obvious, but also the most
   appealing and is in theory the best in terms of performance, although it has
-  some limitations. That's also the one implemented to an extent by the grouping
-  functionality of [`EnTT`](https://github.com/). I'll try to describe it
-  briefly, without going into too many details<br/>
+  some limitations. That's also the one implemented to an extent by the
+  [grouping functionality](https://github.com/skypjack/entt/wiki/Crash-Course:-entity-component-system#groups)
+  of `EnTT`. I'll try to describe it briefly, without going into too many
+  details.<br/>
   Consider you want to iterate components `position` and `velocity`. Because of
   the way sparse sets work, you know components are all tightly packed in two
   arrays. Both of them contain some entities that have both the components and
@@ -409,6 +412,14 @@ fragmentation.
 with archetypes. Intuitively, it will be enough to break the arrays to be
 iterated in several parts, as many as the processes to run, then assign a
 portion of data to each of the threads.
+
+Finally, something that can be done easily with sparse sets and independent
+pools in general but it's hard to get with archetypes is sorting the
+components.<br/>
+This is something that you may never need, but it's common for example when
+working in painter mode. Of course, it doesn't shift the goodness of one or the
+other solution, but it's certainly something to take into consideration if you
+have this need.
 
 ## So, archetypes or sparse sets?
 
