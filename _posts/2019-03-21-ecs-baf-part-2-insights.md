@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ECS back and forth
-subtitle: Part 2, insights - sparse sets and grouping functionalities
+subtitle: Part 2, insights - Sparse sets and grouping functionalities
 tags: [ecs, entt]
 ---
 
