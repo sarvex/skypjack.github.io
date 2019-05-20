@@ -10,23 +10,23 @@ participation of users.
 
 ## Special Thanks to
 
-Paolo Monteverde
-Arn Carver
+Paolo Monteverde<br/>
+Arn Carver<br/>
 Tommi Pisto
 
 ### Many Thanks to
 
-Bagrat Dabaghyan
+Bagrat Dabaghyan<br/>
 Brody Higgerson
 
 ### Thanks to
 
-Guywithknife
-Increscent Studio
-Justin Lawen
-Keny Zavadski
-paul gruenbacher
-Quinn Hartnett
+Guywithknife<br/>
+Increscent Studio<br/>
+Justin Lawen<br/>
+Keny Zavadski<br/>
+paul gruenbacher<br/>
+Quinn Hartnett<br/>
 Wilhelm Sokolov
 
 ## Support
