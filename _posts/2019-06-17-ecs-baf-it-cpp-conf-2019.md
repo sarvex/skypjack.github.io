@@ -24,7 +24,7 @@ In particular:
 * Sparse Set: used by [EnTT](https://github.com/skypjack/entt), an ECS library
   in modern C++ and of which I'm also the author.
 
-In just 50 minutes I tried to condense the pros and cons of these models
+In just 50 minutes I tried to go through the pros and cons of these models
 (probably failing in the attempt, but I did my best), hoping to give a grasp of
 the topic to those interested.
 
