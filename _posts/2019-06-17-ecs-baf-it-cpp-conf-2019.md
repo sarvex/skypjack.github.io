@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ECS back and forth (talk)
+title: ECS back and forth
 subtitle: Italian C++ Conference 2019
 tags: [talk, ecs, entt, cpp]
 ---
