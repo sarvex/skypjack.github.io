@@ -19,3 +19,13 @@ widely adopted by the C++ community: **type erasure** and **SFINAE**.
 The talk wasn't recorded as far as I know. Therefore, it isn't possible to add a
 link to a video in which these slides are commented and completed as they
 deserve.
+
+## Let me know that it helped
+
+I hope you enjoyed what you've read so far.
+
+If you liked this post and want to say thanks, consider to star the
+[GitHub project](https://github.com/skypjack/skypjack.github.io) that hosts this
+blog. It's the only way you have to let me know.
+
+Thanks.
