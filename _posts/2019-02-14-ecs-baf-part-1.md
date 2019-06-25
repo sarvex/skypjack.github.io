@@ -279,9 +279,9 @@ In the next chapters of the series I'll try to explore other approaches more
 performance oriented. In particular, a model based on sparse sets and another
 one that relies on grouping things as much as possible.
 
-I hope you enjoyed what you've read so far.
-
 ## Let me know that it helped
+
+I hope you enjoyed what you've read so far.
 
 If you liked this post and want to say thanks, consider to star the
 [GitHub project](https://github.com/skypjack/skypjack.github.io) that hosts this
