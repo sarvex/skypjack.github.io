@@ -228,7 +228,7 @@ auto curr = comp.first_child;
 
 for(std::size_t i{}; i < comp.children; ++i) {
     // ...
-    curr = registry.get<relationship>(curr).next_sibling;
+    curr = registry.get<relationship>(curr).next;
 }
 ```
 
@@ -246,7 +246,7 @@ auto curr = comp.first_child;
 
 while(curr != entt::null) {
     // ...
-    curr = registry.get<relationship>(curr).next_sibling;
+    curr = registry.get<relationship>(curr).next;
 }
 ```
 
