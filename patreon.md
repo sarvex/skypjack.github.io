@@ -4,7 +4,7 @@ title: Patrons
 subtitle: Who helped and who helps
 ---
 
-I want to thank everyone who supported me and still supports me today.<br/>
+I want to thank everyone who supported me and/or still supports me today.<br/>
 What I do is largely due to you and your help, as well as to the inexhaustible
 participation of users.
 
@@ -25,6 +25,7 @@ Guywithknife<br/>
 Increscent Studio<br/>
 Justin Lawen<br/>
 Keny Zavadski<br/>
+Lawrence Millar-Madigan<br/>
 paul gruenbacher<br/>
 Quinn Hartnett<br/>
 Wilhelm Sokolov
