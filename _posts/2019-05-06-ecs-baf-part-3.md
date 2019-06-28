@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ECS back and forth
-subtitle: Part 3 - why you don't need to store deleted entities
+subtitle: Part 3 - Why you don't need to store deleted entities
 tags: [ecs, entt]
 ---
 
