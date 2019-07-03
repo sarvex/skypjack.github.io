@@ -28,9 +28,10 @@ In just 50 minutes I tried to go through the pros and cons of these models
 (probably failing in the attempt, but I did my best), hoping to give a grasp of
 the topic to those interested.
 
-The talk was recorded and should be made available soon as far as I know.
-Therefore, I'll update this post as soon as I've a link to a video in which
-these slides are commented and completed as they deserve.
+The talk was also recorded. You can find the full video
+[here](https://skypjack.github.io/2019-06-17-ecs-baf-it-cpp-conf-2019/).<br/>
+Thanks to the Italian C++ Community for the opportunity to show to the world how
+bad is my English. :-)
 
 ## Let me know that it helped
 
