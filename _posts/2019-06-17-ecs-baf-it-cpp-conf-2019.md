@@ -29,7 +29,7 @@ In just 50 minutes I tried to go through the pros and cons of these models
 the topic to those interested.
 
 The talk was also recorded. You can find the full video
-[here](https://skypjack.github.io/2019-06-17-ecs-baf-it-cpp-conf-2019/).<br/>
+[here](https://youtu.be/WB5bRKKGRUk).<br/>
 Thanks to the Italian C++ Community for the opportunity to show to the world how
 bad is my English. :-)
 
