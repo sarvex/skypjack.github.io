@@ -72,7 +72,7 @@ The major implementations of an ECS of which I'm aware are:
 
 * Archetypes (as an example [`decs`](https://github.com/vblanco20-1/decs)): here
   entities are stored aside with a direct pointer to the archetype to which they
-  belong. Recycling them permits to reduce the memory usage for for the vector
+  belong. Recycling them permits to reduce the memory usage for the vector
   of entities.
 
 Moreover, if we split our identifiers in two parts, the number of entities we
