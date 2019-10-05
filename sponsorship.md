@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Patrons
+title: Sponsorship
 subtitle: Who helped and who helps
 ---
 
