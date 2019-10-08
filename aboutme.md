@@ -39,7 +39,7 @@ This is why **your support is important and can make the difference**.
 
 If you like my works and you're using them in your real world products or if you
 just want to help me, consider to [**donate**](https://www.paypal.me/skypjack)
-or to [**become a patron**](https://www.patreon.com/bePatron?c=1772573) and
+or to [**become a sponsor**](https://github.com/users/skypjack/sponsorship) and
 allow me to spend more and more time on the projects you love.
 
 **Thank you**.
