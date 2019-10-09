@@ -20,6 +20,7 @@ Tommi Pisto
 Bagrat Dabaghyan<br/>
 Brody Higgerson<br/>
 Paul E Hansen<br/>
+Sztergbaum Roman<br/>
 Xiss Burg
 
 ### Thanks to
