@@ -13,6 +13,7 @@ participation of users.
 Arn Carver<br/>
 Paolo Monteverde<br/>
 Paul Gruenbacher<br/>
+Samantha Caini<br/>
 Tommi Pisto
 
 ### Many Thanks to
@@ -32,6 +33,7 @@ Increscent Studio<br/>
 Justin Lawen<br/>
 Keny Zavadski<br/>
 Lawrence Millar-Madigan<br/>
+Marcus Ottosson<br/>
 MrMartinIden<br/>
 Quinn Hartnett<br/>
 Wilhelm Sokolov
