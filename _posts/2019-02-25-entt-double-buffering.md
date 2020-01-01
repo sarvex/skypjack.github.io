@@ -2,6 +2,7 @@
 layout: post
 title: EnTT and double buffering
 gh-repo: skypjack/entt
+gh-badge: [star, follow]
 tags: [entt]
 ---
 
@@ -364,6 +365,6 @@ or any other ECS library, this post can help you.
 
 If you liked this post and want to say thanks, consider to star the
 [GitHub project](https://github.com/skypjack/skypjack.github.io) that hosts this
-blog. It's the only way you have to let me know.
+blog. It's the only way you have to let me know that you appreciate my work.
 
 Thanks.

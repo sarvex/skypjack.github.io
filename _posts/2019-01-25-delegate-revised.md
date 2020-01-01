@@ -2,6 +2,7 @@
 layout: post
 title: Generic, type-safe delegates in C++ (revised)
 gh-repo: skypjack/entt
+gh-badge: [star, follow]
 tags: [entt, cpp, signal]
 ---
 
@@ -470,6 +471,6 @@ to know how to use it.
 
 If you liked this post and want to say thanks, consider to star the
 [GitHub project](https://github.com/skypjack/skypjack.github.io) that hosts this
-blog. It's the only way you have to let me know.
+blog. It's the only way you have to let me know that you appreciate my work.
 
 Thanks.
