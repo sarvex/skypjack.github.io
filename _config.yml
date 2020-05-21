@@ -24,11 +24,10 @@ navbar-links:
   Projects:
     - EnTT: "https://github.com/skypjack/entt"
     - uvw: "https://github.com/skypjack/uvw"
-    - Face Smash: "https://play.google.com/store/apps/details?id=com.gamee.facesmash"
+    - Face Smash: "https://www.facebook.com/FaceSmashChallenge/"
   Tags: "tags"
   Sponsorship:
     - Become a sponsor: "https://github.com/users/skypjack/sponsorship"
-    - Become a patron: "https://www.patreon.com/skypjack"
     - Donate: "https://www.paypal.me/skypjack"
     - Supporters: "sponsorship"
   License: "license"
