@@ -87,7 +87,7 @@ Whenever you want to go back to the parent from a given entity, you can query
 the above component:
 
 ```
-if(auto *comp = registry.try_get<relationship>(entity); relationship && relationship->parent != entt::null) {
+if(auto *comp = registry.try_get<relationship>(entity); comp && comp->parent != entt::null) {
     // ...
 }
 ```
