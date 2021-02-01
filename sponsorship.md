@@ -14,6 +14,9 @@ have helped me to date.
 
 ## Special Thanks to
 
+Microsoft Mojang Studios<br/>
+IMG.LY<br/>
+<br/>
 Arn Carver<br/>
 Karl Burdack<br/>
 Paolo Monteverde<br/>
@@ -44,6 +47,7 @@ Paul E Hansen<br/>
 Qix<br/>
 Quinn Hartnett<br/>
 Rozgo<br/>
+Stefan Hagen<br/>
 Stefan Novak<br/>
 Sygmei<br/>
 Sztergbaum Roman<br/>
