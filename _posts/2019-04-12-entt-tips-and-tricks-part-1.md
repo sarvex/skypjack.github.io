@@ -100,7 +100,7 @@ std::for_each(group.data<A>(), group.data<A>() + group.size(), [raw = group.raw<
     // ...
 });
 
-std::for_each(group.data<A>() + group.size(), group.data<A>() + group.size<A>(), [raw = group.raw<A>() + group()](auto entity) mutable {
+std::for_each(group.data<A>() + group.size(), group.data<A>() + group.size<A>(), [raw = group.raw<A>() + group.size()](auto entity) mutable {
     auto &component = *(raw++);
     // ...
 });
